@@ -4,7 +4,7 @@
 💻 Passionate about Web Development | Machine Learning | Data Analysis  
 🔭 Currently working on: A MERN Stack Project 
 🌱 Currently learning: React.js, MongoDB, and System Design  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pratyushpra) | [Portfolio Website](https://yourportfolio.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pratyushpra) | [Portfolio Website](https://my-portfolio-site-lac-one.vercel.app/)
 
 ---
 
@@ -19,11 +19,6 @@
 - **Frameworks & Libraries:** Bootstrap, React.js, Node.js  
 - **Databases:** MongoDB, MySQL  
 - **Tools:** Git, Figma, Power BI
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratyush3300&show_icons=true&theme=radical)
 
 ---
 
