@@ -4,7 +4,7 @@
 💻 Passionate about Web Development | Machine Learning | Data Analysis  
 🔭 Currently working on: A MERN Stack Project 
 🌱 Currently learning: React.js, MongoDB, and System Design  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pratyushpra) | [Portfolio Website](https://my-portfolio-site-lac-one.vercel.app/)
+📫 Reach me from: [LinkedIn](https://www.linkedin.com/in/pratyushpra) | [Portfolio Website](https://my-portfolio-site-lac-one.vercel.app/)
 
 ---
 
