@@ -12,7 +12,7 @@
 ## 🚀 My Projects
 - 📚 **PYQ Portal** – A web portal to upload/download Previous Year Question Papers.
 - 📊 **Stock Price Prediction** – Analyzed NVIDIA stock data with ML models.
-- 🛒 **E-commerce Website** – Developed using HTML, Bootstrap, and PHP.
+- 🛒 **MapFood Platform** – Developed during my internship using modern tech-stacks.
 ---
 
 ## 🛠️ Tech Stack
