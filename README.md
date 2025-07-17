@@ -22,7 +22,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements/ Certifications
 - 🥈 SIH 2024 Semi-Finalist – Built a chatbot app(Mining Mate) for the Ministry of Coal using Flutter & Python 
 - 👨‍💻 AICTE Virtual Internship – Full Stack Python Developer  
 - 🌐 Web Developer (Co-Lead) at AISoC, KIIT University 
