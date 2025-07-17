@@ -14,7 +14,7 @@
 - 🛒 **MapFood Platform** – Developed during my internship using modern tech-stacks.
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Known
 - **Languages:** Python, C, C++, JavaScript
 - **Frameworks & Libraries:** Bootstrap, TypeScript, Node.js 
 - **Databases:** MongoDB, MySQL  
