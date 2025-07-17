@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 My Projects
-- 📚 **PYQ Portal** – A web portal to upload/download Previous Year Question Papers.
+- 📚 **PYQ Portal** – A web portal for only KIIT students from where they can access/download Previous Year Question Papers.
 - 📊 **Stock Price Prediction** – Analyzed NVIDIA stock data with ML models.
 - 🛒 **MapFood Platform** – Developed during my internship using modern tech-stacks.
 ---
