@@ -2,7 +2,7 @@
 
 🎓 A final Year B.Tech Student at KIIT University with specialization in Information Technology. My journey into tech started with curiosity around how websites and systems work, which later evolved into a passion for solving real-world problems through code. Over the time, I’ve worked on a range of projects—from building a chatbot app for a Hackathon Project to analyzing stock data with Python.
 💻 Passionate about Web Development | Machine Learning | Data Analysis  
-🌱 Currently Mastering: TypeScript, MongoDB, and Data Structures 
+🔭 Currently Mastering: TypeScript, MongoDB, and Data Structures 
 
 📫 Reach me from: [LinkedIn](https://www.linkedin.com/in/pratyushpra) 
 
