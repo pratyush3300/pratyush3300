@@ -2,7 +2,7 @@
 
 🎓 A final Year B.Tech Student at KIIT University with specialization in Information Technology. My journey into tech started with curiosity around how websites and systems work, which later evolved into a passion for solving real-world problems through code. Over the time, I’ve worked on a range of projects—from building a chatbot app for a Hackathon Project to analyzing stock data with Python.
 💻 Passionate about Web Development | Machine Learning | Data Analysis  
-🔭 Currently Mastering: TypeScript, MongoDB, and Data Structures 
+🔭 Currently Exploring: TypeScript, Deep Learning 
 
 📫 Reach me from: [LinkedIn](https://www.linkedin.com/in/pratyushpra) 
 
@@ -16,18 +16,20 @@
 
 ## 🛠️ Tech Stack Known
 - **Languages:** Python, C, C++, JavaScript
-- **Frameworks & Libraries:** Bootstrap, TypeScript, Node.js 
+- **Frameworks & Libraries:** Bootstrap, Tailwind CSS 
 - **Databases:** MongoDB, MySQL  
-- **Tools:** Git, Figma, Power BI
+- **Tools:** Git, GitHub, Figma, Power BI, Excel
 
 ---
 
-## 🏆 Achievements/Certifications
-- 🥈 SIH 2024 Semi-Finalist – Built a chatbot app(Mining Mate) for the Ministry of Coal using Flutter & Python 
-- 👨‍💻 AICTE Virtual Internship – Full Stack Python Developer  
+## 🏆 My Achievements or Certifications
+- 👨‍💻 Data Analytics Job Simulation -- Deloitte 
+- 🥈 SIH 2023 Semi-Finalist Team –- Built a ChatBot App(Mining Mate) for the Ministry of Coal using Flutter & Python 
+- 👨‍💻 AICTE Virtual Internship –- Full Stack Python Developer  
 - 🌐 Web Developer (Co-Lead) at AISoC, KIIT University 
 - 🎓 Certified in Power BI, Health Systems (Coursera)
-
+- 👨‍💻 Software Engineering Job Simulation -- Accenture
+  
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and connect! 🚀
