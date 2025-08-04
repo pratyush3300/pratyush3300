@@ -8,11 +8,6 @@ A final Year B.Tech Student at KIIT University with specialization in Informatio
 
 ---
 
-## 🚀 My Projects
-- 📚 **PYQ Portal** – A web portal for only KIIT students from where they can access/download Previous Year Question Papers.
-- 📊 **Stock Price Prediction** – Analyzed NVIDIA stock data with ML models.
-- 🛒 **MapFood Platform** – Developed during my internship using modern tech-stacks.
----
 
 ## 🛠️ Tech Stack Known
 - **Languages:** Python, C, C++, JavaScript
