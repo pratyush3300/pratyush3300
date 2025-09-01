@@ -10,19 +10,20 @@ A final Year B.Tech Student at KIIT University with specialization in Informatio
 
 
 ## 🛠️ Tech Stack Known
-- **Languages:** Python, C, C++, JavaScript
-- **Frameworks & Libraries:** Bootstrap, Tailwind CSS 
+- **Languages:** Python, C, C++, JavaScript, SQL
+- **Frameworks & Libraries:** Bootstrap, React, NumPy, Pandas, Matplotlib
 - **Databases:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, Figma, Power BI, Excel
+- **Tools:** Git, GitHub, Figma, Power BI, MS Excel
 
 ---
 
 ## 🏆 My Achievements or Certifications
-- 👨‍💻 Data Analytics Job Simulation -- Deloitte 
-- 🥈 SIH 2023 Semi-Finalist Team –- Built a ChatBot App(Mining Mate) for the Ministry of Coal using Flutter & Python 
-- 👨‍💻 AICTE Virtual Internship –- Full Stack Python Developer  
-- 🌐 Web Developer (Co-Lead) at AISoC, KIIT University 
-- 🎓 Certified in Power BI, Health Systems (Coursera)
+- 👨‍💻 Data Analytics Job Simulation --> Deloitte
+- 🎓 Python for Dat Science --> Infosys 
+- 🥈 SIH 2023 Runner-up –-> Built a ChatBot App(Mining Mate) for the Ministry of Coal using Flutter & Python 
+- 👨‍💻 AICTE Virtual Internship –-> Python Developer Virtual Internship  
+- 🌐 Web Developer (Co-Lead) at AI Student Operated Council, KIIT University 
+- 🎓 Certified in Power BI and Health Systems (Coursera)
 - 👨‍💻 Software Engineering Job Simulation -- Accenture
   
 ---
