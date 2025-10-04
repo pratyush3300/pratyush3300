@@ -24,7 +24,7 @@ A final Year B.Tech Student at KIIT University with specialization in Informatio
 - 🥈 SIH 2023 Runner-up –-> Built a ChatBot App(Mining Mate) for the Ministry of Coal 
 - 👨‍💻 AICTE Virtual Internship –-> Python Developer Virtual Internship   
 - 🎓 Certified in Power BI and Health Systems (Coursera)
-- 👨‍💻 Software Engineering Job Simulation -- Accenture
+- 👨‍💻 Software Engineering Job Simulation --> Accenture
   
 ---
 
