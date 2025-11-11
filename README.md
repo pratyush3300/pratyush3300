@@ -17,14 +17,13 @@ A final Year B.Tech Student at KIIT University with specialization in Informatio
 
 ---
 
-## 🏆 My Achievements or Certifications
+## 🏆 My Achievements and Certifications
 - 🌐 Web Developer (Co-Lead) at AI Student Operated Council, KIIT University
 - 👨‍💻 Data Analytics Job Simulation --> Deloitte
 - 🎓 Python for Data Science --> Infosys 
-- 🥈 SIH 2023 Runner-up –-> Built a ChatBot App(Mining Mate) for the Ministry of Coal 
-- 👨‍💻 AICTE Virtual Internship –-> Python Developer Virtual Internship   
+- 🥈 SIH 2023 Runner-up –-> Built a ChatBot App (Mining Mate) for the Ministry of Coal 
+- 👨‍💻 AICTE Virtual Internship –-> Completed a virtual internship programe in Python Development   
 - 🎓 Certified in Power BI and Health Systems (Coursera)
-- 👨‍💻 Software Engineering Job Simulation --> Accenture
   
 ---
 
