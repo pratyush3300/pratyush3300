@@ -1,7 +1,7 @@
 # What's up Guys, I'm Pratyush Prasoon
 
-A final Year B.Tech Student at KIIT University with specialization in Information Technology. My journey into tech started with curiosity around how websites and systems work, which later evolved into a passion for solving real-world problems through code. Over the time, I’ve worked on a range of projects—from building a chatbot app for a Hackathon Project to analyzing stock data with Python.
-💻 Passionate about Web Development | Machine Learning | Data Analysis  
+A final Year B.Tech Student at KIIT University with specialization in Information Technology. My journey into tech began with a curiosity around how websites and systems work, which later evolved into a passion for solving real-world problems. Over the time, I’ve worked on a range of projects— from building a chatbot app for a Hackathon Project to analyzing stock data with Python.
+💻 Passionate about Software Development | Machine Learning  
 🔭 Currently Exploring: TypeScript, Deep Learning, Generative AI
 
 📫 Reach me from: [LinkedIn](https://www.linkedin.com/in/pratyushpra) 
