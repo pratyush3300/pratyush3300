@@ -1,4 +1,4 @@
-# What's up Guys, I'm Pratyush Prasoon
+# Hello Guys, I'm Pratyush Prasoon
 
 A final Year B.Tech Student at KIIT University with specialization in Information Technology. My journey into tech began with a curiosity around how websites and systems work, which later evolved into a passion for solving real-world problems. Over the time, I’ve worked on a range of projects— from building a chatbot app for a Hackathon Project to analyzing stock data with Python.
 💻 Passionate about Software Development | Machine Learning  
